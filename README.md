@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Amrit and I love to code in my free time
+- 👀 I’m interested in creating modern webpage
+- 🌱 I’m currently learning React
